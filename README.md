@@ -2,6 +2,7 @@
 
 A Minecraft-based chatbot leveraging Seq2Seq models with LSTM architecture for dynamic Q&A interactions. Utilizes beam search for optimal response generation and integrates sentiment analysis for personalized user engagement.
 
+Note that this model could perform much better with more training, tuning, and higher embedding dimensions. My resources were limited and as a result, this current version has insufficient training as of now.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
